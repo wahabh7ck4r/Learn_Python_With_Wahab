@@ -1,4 +1,4 @@
-import chapter_1
+import mian
 
 # example of using user define module 
-print(chapter_1)
+print(main)
